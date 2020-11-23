@@ -17,9 +17,9 @@ Exemplo:
 A categoria **pbiurl** é onde listamos quais relatórios precisam ser acessados e salvos em pdf. No exemplo abaixo, o **grupo1** recebe apenas o acr.
 *  **pbiurl:**
     * **grupo1:** 
-        * acr: "https:// xxxxxxxxx" 
+        * ab: "https:// xxxxxxxxx" 
     * **grupo2:** 
-        * otmizador: "https:// xxxxxxxxx" 
+        * ot: "https:// xxxxxxxxx" 
 
 Na categoria **reports** dizemos onde o navegador salvou o arquivo após fazer o download (normalmente na pasta Downloads). Para obter o caminho
 exato e o nome do arquivo, faça um teste baixando o arquivo manualmente. O nome do arquivo não mudará, a menos que seja publicado com outro nome.
