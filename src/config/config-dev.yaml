@@ -1,0 +1,36 @@
+mailer:
+  login: 'x'
+  ttls: 'true'
+  status: 'true'
+  user: ""
+  password: ""
+  server: "smtp-mail.outlook.com"
+  port: 587
+  from: ""
+
+
+reports:
+  grupo1:
+    acr: 'C:/Users/xxx/Downloads/xxx.pdf'
+  grupo2:
+    otimizador: 'C:/Users/xxx/Downloads/xxx.pdf'
+
+email:
+  grupo1:
+    email: "xx@xx.com.br,xx@xx.com.br"
+    assunto: 'Assunto'
+    conteudo: "Seguem anexos os reports."
+  grupo2:
+    email: "xx@xx.com.br,"
+    assunto: 'Assunto'
+    conteudo: "Seguem anexos os reports."
+
+powerbi:
+  user: "conta para logar no power bi"
+  password: "senha"
+
+pbiurl:
+  grupo1:
+    acr: "url do relatório"
+  grupo2:
+    otimizador: "url do relatório"
